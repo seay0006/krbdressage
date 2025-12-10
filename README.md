@@ -10,6 +10,8 @@
 ## Lessons
 1. Riding Programs
 2. Riding Lessons
+3. Makeup Lessons
+4. Introductory Classes
 
 
 ## Contact Us
@@ -46,4 +48,19 @@
 6. Copyright claim with legal and privacy policy
 
 
-<!-- testing commit -->
+# Main Features I think can be improved
+
+## Better Card placement.
+Most of the websites ive seen have a use of cards that are not properly placed, instead being shown as a massive grid of content with no sense of organisation.
+
+I believe that by either setting better scale limits, or through adding some sort of filter could allow users to have a much more digestable version of the website.
+
+Another massive issue ive encountered, is the lack of proper functionality shown from these cards. Often not being ablt to interact easily when it comes to the tablet scale of the websites
+
+
+## Font and User Accesibility
+Within the average website, I have notices lots of small fonts and links placed in light blue ontop of a  white background. In multiple I noticed that they dont meet the criteria for screen readers, or those who have any form of visual impairement.
+
+Afterall horses are for everyone, I want to ensure that anybody and everybody can navigate and interact with your website!
+
+##
