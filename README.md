@@ -39,6 +39,11 @@
 2. Panning imagery of the horses/grounds
 3. Potentially an upcoming events section
 
+## New Clients
+1. Liability form online
+2. Upon arrival request
+3. What to bring/what is provided
+
 ## Footer
 1. Navigation to above mentioned sections
 2. Contact us summary
@@ -46,6 +51,8 @@
 4. Company logo
 5. Designer pinned at the bottom
 6. Copyright claim with legal and privacy policy
+
+
 
 
 # Main Features I think can be improved
