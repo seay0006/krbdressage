@@ -44,3 +44,6 @@
 4. Company logo
 5. Designer pinned at the bottom
 6. Copyright claim with legal and privacy policy
+
+
+<!-- testing commit -->
